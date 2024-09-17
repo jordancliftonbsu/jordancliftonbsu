@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Jordan Clifton and I'm pursuing a Bachelor's degree of Computer Science at Boise State University
 <!--
 **jordancliftonbsu/jordancliftonbsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
